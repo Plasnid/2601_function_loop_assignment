@@ -1,14 +1,13 @@
 /**
- * * Q1.  30 Marks
- * * Create a self executing function that returns an object describing an animal of your choice.
- * * Ensure your animal object contains the following information
- * * -weight
- * * -covering
- * * -length
- * * -diet
- * * -predators
- * * -habitat
- * * -source information web page
+ * * Q1.  25 Marks
+ * * Create a self executing function that returns an object describing a favourite recipe of your choice.
+ * * Ensure your object contains the following information
+ * * -Recipe Name
+ * * -list of ingredients with amounts(as an array of objects)
+ * * -cooking steps
+ * * -why it is special to you
+ * * -bake or no bake recipe
+ * * -number of calories
  * 
  * * Your object needs to contain at least:
  * * -1 array containing 3 or more entries
@@ -18,21 +17,25 @@
  */
 
 /**
- * * Q2. 20 marks
+ * * Q2. 5 marks
  * * Create a function expression that takes the output of question 1 and
- * * loops backwards through the array in the object console logging each time. 
+ * * puts the title of the food on screen as an H1 tag along with the calories using a template literal
+ */
+
+/**
+ * * Q3. 20 marks
+ * * Create a function expression that takes the output of question 1 and
+ * * loops through the list of ingredients printing them to screen in a unordered list showing the ingredient and the amount
  */
 
 /**
  * * Q3. 25 marks
  * * Create a fat arrow function that takes in the output of question 1 and
- * * returns a string in the following format: The __animalName__ lives in __habitat__ and has a covering of __covering__.
- * * Ensure that your function is a single line.
+ * * loops through the list of ingredients printing them to screen in an ordered list showing each step
  */
 
 /**
  * * Q4. 25 marks
- * * Create a function declaration that takes in the output of question 1, and loops through
- * * all of it's values, console logging each individual key:value pair.  
- * * To answer this question review how to loop through an object.
+ * * Create a function declaration that takes in the output of question 1 and 
+ * * puts the description of why the recipe is special to you on screen in a p tag.
  */
