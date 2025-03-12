@@ -31,7 +31,7 @@
 /**
  * * Q3. 25 marks
  * * Create a fat arrow function that takes in the output of question 1 and
- * * loops through the list of ingredients printing them to screen in an ordered list showing each step
+ * * loops through the list of steps printing them to screen in an ordered list showing each step
  */
 
 /**
